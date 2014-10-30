@@ -12,3 +12,11 @@ A swift application
 #at this stage create a GitHub repository
 git remote add origin https://github.com/ranadas/FineMe.git
 git push -u origin master
+
+
+
+git checkout -b develop
+
+git commit -m 'for develop'
+
+git push -u origin develop
